@@ -26,8 +26,6 @@ from PIL import Image
 
 # In[32]:
 
-# This is needed to display the images.
-get_ipython().magic(u'matplotlib inline')
 
 # This is needed since the notebook is stored in the object_detection folder.
 sys.path.append("..")
